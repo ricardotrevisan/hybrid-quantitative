@@ -1,0 +1,11 @@
+arch
+matplotlib
+numpy
+pandas
+scikit-learn
+tensorflow==2.18.1
+yfinance
+investpy
+mplfinance
+seaborn
+pywin32
